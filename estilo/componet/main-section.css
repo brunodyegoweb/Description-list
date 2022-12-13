@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.main-section {
+    background-color: #F25A70;
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+
+.main-section .title {
+    color: #fff;
+    font-size: 1.5em;
+}

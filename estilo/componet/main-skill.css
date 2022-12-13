@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.main-skill {
+    display: flex;
+}
+
+.main-skill .icon {
+    margin-right: 27px;
+}
+
+.main-skill .rigth {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

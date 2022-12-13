@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.progress-bar {
+    box-sizing: border-box;
+    background-color: #fff;
+    height: 27px;
+    border: 5px solid #000;
+}
+
+.progress-bar::-webkit-progress-bar,
+.progress-bar::-moz-progress-bar {
+    background-color: #7C5E99;
+}
