@@ -2,6 +2,7 @@
 
 .main-skill {
     display: flex;
+    align-items: center;
 }
 
 .main-skill .icon {
